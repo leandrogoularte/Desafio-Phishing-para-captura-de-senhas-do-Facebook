@@ -13,5 +13,12 @@ Método de ataque: Credential Harvester Attack Method
 Método de ataque: Site Cloner
 Obtendo o endereço da máquina: ifconfig
 URL para clone: http://www.facebook.com
-Resutados
-Alt text
+
+Comandos: 
+setoolkit
+1
+2
+2
+http://www.facebook.com
+
+Logo a clonagem do site foi realizada.
